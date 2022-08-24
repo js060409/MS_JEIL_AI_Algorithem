@@ -2,3 +2,6 @@
 
 주소(도메인): 
 https://animaltown.netlify.app
+
+이석민 깃허브
+https://github.com/kgoka/type_test
